@@ -13,16 +13,14 @@ sites:
     url: code.devmirza.ml
   - name: Chat Bot API
     url: https://api.devmirza.ml
-  - name: HasteBin Clone
-    url: https://haste.devmirza.ml
   - name: GitHub Clone (gitea)
     url: https://git.devmirza.ml
-  - name: Mincecraft Server
-    url: https://play.devmirza.ml
   - name: Black Fort Hosting
     url: https://panel.blackforthosting.com
   - name: DanBot Hosting
     url: https://panel.danbot.host
+  - name: Cyclone Bot List
+    url: https://www.cyclonebotlist.ml
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

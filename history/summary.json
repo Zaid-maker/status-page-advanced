@@ -95,18 +95,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/haste.devmirza.ml.ico",
     "slug": "haste-bin-clone",
     "status": "down",
-    "uptime": "0.24%",
-    "uptimeDay": "0.24%",
-    "uptimeWeek": "0.24%",
-    "uptimeMonth": "0.24%",
-    "uptimeYear": "0.24%",
+    "uptime": "0.33%",
+    "uptimeDay": "0.33%",
+    "uptimeWeek": "0.33%",
+    "uptimeMonth": "0.33%",
+    "uptimeYear": "0.33%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-17": 9
+      "2022-11-17": 10
     }
   },
   {
@@ -126,7 +126,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-17": 18
+      "2022-11-17": 20
     }
   },
   {
@@ -135,11 +135,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/play.devmirza.ml.ico",
     "slug": "mincecraft-server",
     "status": "down",
-    "uptime": "4.14%",
-    "uptimeDay": "4.14%",
-    "uptimeWeek": "4.14%",
-    "uptimeMonth": "4.14%",
-    "uptimeYear": "4.14%",
+    "uptime": "3.99%",
+    "uptimeDay": "3.99%",
+    "uptimeWeek": "3.99%",
+    "uptimeMonth": "3.99%",
+    "uptimeYear": "3.99%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -173,11 +173,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/panel.danbot.host.ico",
     "slug": "dan-bot-hosting",
     "status": "down",
-    "uptime": "0.24%",
-    "uptimeDay": "0.24%",
-    "uptimeWeek": "0.24%",
-    "uptimeMonth": "0.24%",
-    "uptimeYear": "0.24%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 135,
     "timeDay": 135,
     "timeWeek": 135,

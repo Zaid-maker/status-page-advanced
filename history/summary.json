@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.devmirza.ml.ico",
     "slug": "dev-mirza-blog",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.72%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
     "time": 2605,
     "timeDay": 2821,
     "timeWeek": 2605,
     "timeMonth": 2605,
     "timeYear": 2605,
     "dailyMinutesDown": {
-      "2022-11-21": 3
+      "2022-11-21": 17
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/devmirza-blog-backend.up.railway.app.ico",
     "slug": "dev-mirza-blog-backend",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.72%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
     "time": 278,
     "timeDay": 233,
     "timeWeek": 278,
     "timeMonth": 278,
     "timeYear": 278,
     "dailyMinutesDown": {
-      "2022-11-21": 3
+      "2022-11-21": 17
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "code.devmirza.ml",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "code-server",
-    "status": "down",
-    "uptime": "99.56%",
-    "uptimeDay": "98.19%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
-    "time": 1176,
-    "timeDay": 708,
-    "timeWeek": 1176,
-    "timeMonth": 1176,
-    "timeYear": 1176,
+    "status": "up",
+    "uptime": "99.33%",
+    "uptimeDay": "97.26%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.33%",
+    "time": 1734,
+    "timeDay": 3176,
+    "timeWeek": 1734,
+    "timeMonth": 1734,
+    "timeYear": 1734,
     "dailyMinutesDown": {
-      "2022-11-21": 26
+      "2022-11-21": 39
     }
   },
   {
@@ -150,7 +150,7 @@
     "timeMonth": 109,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2022-11-21": 1216,
+      "2022-11-21": 1229,
       "2022-11-20": 1440,
       "2022-11-19": 1440,
       "2022-11-18": 1440,
@@ -162,19 +162,19 @@
     "url": "https://www.cyclonebotlist.ml",
     "icon": "https://icons.duckduckgo.com/ip3/www.cyclonebotlist.ml.ico",
     "slug": "cyclone-bot-list",
-    "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.58%",
-    "time": 1017,
-    "timeDay": 753,
-    "timeWeek": 1017,
-    "timeMonth": 1017,
-    "timeYear": 1017,
+    "status": "up",
+    "uptime": "99.35%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.35%",
+    "time": 1343,
+    "timeDay": 1863,
+    "timeWeek": 1343,
+    "timeMonth": 1343,
+    "timeYear": 1343,
     "dailyMinutesDown": {
-      "2022-11-21": 25
+      "2022-11-21": 38
     }
   }
 ]

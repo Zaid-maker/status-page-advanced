@@ -17,8 +17,8 @@ sites:
     url: https://git.devmirza.ml
   - name: Black Fort Hosting
     url: https://panel.blackforthosting.com
-  - name: DanBot Hosting
-    url: https://panel.danbot.host
+  - name: Joke Bot Web
+    url: https://jokebot.devmirza.ml
   - name: Cyclone Bot List
     url: https://www.cyclonebotlist.ml
 

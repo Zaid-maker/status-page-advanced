@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.devmirza.ml.ico",
     "slug": "dev-mirza-blog",
     "status": "down",
-    "uptime": "76.95%",
+    "uptime": "72.67%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "76.95%",
-    "uptimeMonth": "76.95%",
-    "uptimeYear": "76.95%",
+    "uptimeWeek": "72.67%",
+    "uptimeMonth": "72.67%",
+    "uptimeYear": "72.67%",
     "time": 2440,
     "timeDay": 2172,
     "timeWeek": 2440,
     "timeMonth": 2440,
     "timeYear": 2440,
     "dailyMinutesDown": {
-      "2022-11-23": 102,
+      "2022-11-23": 554,
       "2022-11-22": 1440,
       "2022-11-21": 228
     }
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/devmirza-blog-backend.up.railway.app.ico",
     "slug": "dev-mirza-blog-backend",
     "status": "down",
-    "uptime": "76.95%",
+    "uptime": "72.67%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "76.95%",
-    "uptimeMonth": "76.95%",
-    "uptimeYear": "76.95%",
+    "uptimeWeek": "72.67%",
+    "uptimeMonth": "72.67%",
+    "uptimeYear": "72.67%",
     "time": 269,
     "timeDay": 233,
     "timeWeek": 269,
     "timeMonth": 269,
     "timeYear": 269,
     "dailyMinutesDown": {
-      "2022-11-23": 102,
+      "2022-11-23": 554,
       "2022-11-22": 1440,
       "2022-11-21": 228
     }
@@ -66,9 +66,9 @@
     "url": "code.devmirza.ml",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "code-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.88%",
     "uptimeWeek": "99.49%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.49%",
@@ -78,6 +78,7 @@
     "timeMonth": 1459,
     "timeYear": 1459,
     "dailyMinutesDown": {
+      "2022-11-23": 2,
       "2022-11-21": 39
     }
   },
@@ -105,11 +106,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.devmirza.ml.ico",
     "slug": "git-hub-clone-gitea",
     "status": "down",
-    "uptime": "98.52%",
+    "uptime": "98.60%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.52%",
-    "uptimeMonth": "98.52%",
-    "uptimeYear": "98.52%",
+    "uptimeWeek": "98.60%",
+    "uptimeMonth": "98.60%",
+    "uptimeYear": "98.60%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -154,7 +155,7 @@
     "timeMonth": 261,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2022-11-23": 102,
+      "2022-11-23": 554,
       "2022-11-22": 827
     }
   },
@@ -163,18 +164,19 @@
     "url": "https://www.cyclonebotlist.ml",
     "icon": "https://icons.duckduckgo.com/ip3/www.cyclonebotlist.ml.ico",
     "slug": "cyclone-bot-list",
-    "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.50%",
+    "status": "down",
+    "uptime": "99.53%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.53%",
     "time": 1181,
     "timeDay": 791,
     "timeWeek": 1181,
     "timeMonth": 1181,
     "timeYear": 1181,
     "dailyMinutesDown": {
+      "2022-11-23": 0,
       "2022-11-21": 38
     }
   }

@@ -8,7 +8,7 @@ sites:
   - name: DevMirza Blog
     url: https://blog.devmirza.ml
   - name: DevMirza Blog Backend
-    url: https://devmirza-blog-backend.up.railway.app
+    url: https://waggish-tangible-airport.strapiapp.com
   - name: Code Server
     url: code.devmirza.ml
   - name: Chat Bot API
@@ -17,8 +17,6 @@ sites:
     url: https://git.devmirza.ml
   - name: Black Fort Hosting
     url: https://panel.blackforthosting.com
-  - name: Joke Bot Web
-    url: https://jokebot.devmirza.ml
   - name: Cyclone Bot List
     url: https://www.cyclonebotlist.ml
 

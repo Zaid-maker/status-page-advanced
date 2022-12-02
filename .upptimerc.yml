@@ -13,8 +13,8 @@ sites:
     url: code.devmirza.ml
   - name: Chat Bot API
     url: https://api.devmirza.ml
-  - name: GitHub Clone (gitea)
-    url: https://git.devmirza.ml
+  - name: VU LMS
+    url: https://vulms.vu.edu.pk/
   - name: Black Fort Hosting
     url: https://panel.blackforthosting.com
   - name: Cyclone Bot List

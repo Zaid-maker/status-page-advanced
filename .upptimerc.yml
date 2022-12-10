@@ -14,7 +14,7 @@ sites:
   - name: Chat Bot API
     url: https://api.devmirza.ml
   - name: VU LMS
-    url: https://vulms.vu.edu.pk/
+    url: https://vulms.vu.edu.pk
   - name: Black Fort Hosting
     url: https://panel.blackforthosting.com
   - name: Cyclone Bot List

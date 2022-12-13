@@ -19,6 +19,8 @@ sites:
     url: https://panel.blackforthosting.com
   - name: Cyclone Bot List
     url: https://www.cyclonebotlist.ml
+  - name: Vercel 🚀
+    url: https://vercel.com
 
 status-website:
   theme: dark

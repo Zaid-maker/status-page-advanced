@@ -13,14 +13,10 @@ sites:
     url: code.devmirza.ml
   - name: Chat Bot API
     url: https://api.devmirza.ml
-  - name: VU LMS
-    url: https://vulms.vu.edu.pk
   - name: Black Fort Hosting
     url: https://panel.blackforthosting.com
   - name: Cyclone Bot List
     url: https://www.cyclonebotlist.ml
-  - name: Vercel 🚀
-    url: https://vercel.com
 
 status-website:
   theme: dark

@@ -18,7 +18,7 @@ sites:
   - name: Cyclone Bot List
     url: https://www.cyclonebotlist.ml
   - name: World Clock API
-    url: https://worldclockapi.com/api/json/utc/now
+    url: http://worldclockapi.com/api/json/utc/now
 
 status-website:
   theme: dark

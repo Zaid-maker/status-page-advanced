@@ -9,14 +9,14 @@ sites:
     url: https://blog.devmirza.ml
   - name: DevMirza Blog Backend
     url: https://waggish-tangible-airport.strapiapp.com
-  - name: Code Server
-    url: code.devmirza.ml
+  - name: Code Server (domain not working)
+    url: http://n3.danbot.host:1146
   - name: Chat Bot API
     url: https://api.devmirza.ml
   - name: Black Fort Hosting
     url: https://panel.blackforthosting.com
-  - name: Cyclone Bot List
-    url: https://www.cyclonebotlist.ml
+  - name: Cyclone Bot List (domain not working)
+    url: http://n2.danbot.host:2427
 
 status-website:
   theme: dark

@@ -17,6 +17,8 @@ sites:
     url: https://panel.blackforthosting.com
   - name: Cyclone Bot List (domain not working)
     url: http://n2.danbot.host:2427
+  - name: Codex AI
+    url: https://codex.devmirza.ml
 
 status-website:
   theme: dark

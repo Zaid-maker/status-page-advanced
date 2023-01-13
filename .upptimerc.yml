@@ -3,10 +3,8 @@ owner: Zaid-maker # Your GitHub organization or username, where this repository 
 repo: status-page-advanced # The name of this repository
 
 sites:
-  - name: DevMirza Official Website
-    url: https://www.devmirza.ml
   - name: DevMirza Blog
-    url: https://blog.devmirza.ml
+    url: https://blog.cyclonebotlist.ml
   - name: DevMirza Blog Backend
     url: https://waggish-tangible-airport.strapiapp.com
   - name: Code Server (domain not working)
@@ -17,14 +15,12 @@ sites:
     url: https://panel.blackforthosting.com
   - name: Cyclone Bot List (domain not working)
     url: http://n2.danbot.host:2427
-  - name: Codex AI
-    url: https://codex.devmirza.ml
 
 status-website:
   theme: dark
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.devmirza.ml
+  cname: status.cyclonebotlist.ml
   # baseUrl: /status-page-advanced
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime

@@ -12,7 +12,7 @@ sites:
   - name: Chat Bot API
     url: https://codex-api.cyclonebotlist.ml
   - name: Black Fort Hosting
-    url: https://panel.blackforthosting.com
+    url: https://blackforthosting.com
   - name: Cyclone Bot List (domain not working)
     url: http://n2.danbot.host:2427
 

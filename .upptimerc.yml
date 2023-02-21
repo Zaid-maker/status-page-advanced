@@ -7,8 +7,6 @@ sites:
     url: https://blog.cyclonebotlist.ml
   - name: DevMirza Blog Backend
     url: https://waggish-tangible-airport.strapiapp.com
-  - name: Code Server (domain not working)
-    url: http://n3.danbot.host:1146
   - name: Chat Bot API
     url: https://codex-api.cyclonebotlist.ml
   - name: Black Fort Hosting

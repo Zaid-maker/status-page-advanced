@@ -6,7 +6,7 @@ sites:
   - name: DevMirza Blog
     url: https://blog.cyclonebotlist.ml
   - name: DevMirza Blog Backend
-    url: https://waggish-tangible-airport.strapiapp.com
+    url: https://devmirza-blog-backend-production.up.railway.app
   - name: Chat Bot API
     url: https://codex-api.cyclonebotlist.ml
   - name: Black Fort Hosting

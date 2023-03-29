@@ -8,7 +8,7 @@ sites:
   - name: DevMirza Blog Backend
     url: https://devmirza-blog-backend-production.up.railway.app
   - name: Chat Bot API
-    url: https://codex-api.cyclonebotlist.ml
+    url: https://codex-api.zaidmaker.replit.co
   - name: Black Fort Hosting
     url: https://blackforthosting.com
   - name: Cyclone Bot List (domain not working)

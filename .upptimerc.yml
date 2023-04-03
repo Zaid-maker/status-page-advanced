@@ -5,6 +5,8 @@ repo: status-page-advanced # The name of this repository
 sites:
   - name: Google
     url: https://google.com
+  - name: Google Cloud
+    url: https://console.cloud.google.com
   - name: DevMirza Blog
     url: https://blog.cyclonebotlist.ml
   - name: DevMirza Blog Backend

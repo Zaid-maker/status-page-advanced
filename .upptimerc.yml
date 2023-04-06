@@ -19,6 +19,14 @@ sites:
     url: https://cyclonebotlist.ml
   - name: Cyclone Server List
     url: https://cyclone-server-list.glitch.me
+  - name: Google DNS 1
+    check: "tcp-ping"
+    url: 8.8.4.4
+    port: 53
+  - name: Google DNS 2
+    check: "tcp-ping"
+    url: 8.8.8.8
+    port: 53
 
 status-website:
   theme: dark

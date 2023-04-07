@@ -23,10 +23,10 @@ sites:
     check: "tcp-ping"
     url: 8.8.4.4
     port: 53
-  - name: Google DNS 2
+  - name: Code Server TCP
     check: "tcp-ping"
-    url: 8.8.8.8
-    port: 53
+    url: pnode1.danbot.host
+    port: 1572
 
 status-website:
   theme: dark

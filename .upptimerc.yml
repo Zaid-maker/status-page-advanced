@@ -7,10 +7,6 @@ sites:
     url: https://google.com
   - name: Google Cloud
     url: https://console.cloud.google.com
-  - name: DevMirza Blog
-    url: https://blog.cyclonebotlist.ml
-  - name: DevMirza Blog Backend
-    url: https://devmirza-blog-backend-production.up.railway.app
   - name: Chat Bot API
     url: https://codex-api.zaidmaker.repl.co
   - name: Black Fort Hosting

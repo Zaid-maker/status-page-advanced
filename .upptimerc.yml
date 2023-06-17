@@ -13,7 +13,7 @@ sites:
     check: "tcp-ping"
     url: 8.8.4.4
     port: 53
-  - name: Code Server TCP
+  - name: Google DNS 2
     check: "tcp-ping"
     url: 8.8.8.8
     port: 53

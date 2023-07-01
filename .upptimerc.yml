@@ -6,7 +6,7 @@ sites:
   - name: Chat Bot API
     url: https://codex-api.zaidmaker.repl.co
   - name: AI 3D API
-    url: https://rose-sleepy-elk.cyclic.app/
+    url: https://rose-sleepy-elk.cyclic.app
   - name: Black Fort Hosting
     url: https://blackforthosting.com
   - name: Cyclone Server List

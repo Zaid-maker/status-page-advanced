@@ -43,5 +43,6 @@ status-website:
 commitMessages:
   commitAuthorName: "devmirza-bot"
   commitAuthorEmail: "mirzazaid4740@gmail.com"
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+
+workflowSchedule:
+  responseTime: "0,15,30,45 * * * *"

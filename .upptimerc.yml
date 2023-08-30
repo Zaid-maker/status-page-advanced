@@ -43,6 +43,3 @@ status-website:
 commitMessages:
   commitAuthorName: "devmirza-bot"
   commitAuthorEmail: "mirzazaid4740@gmail.com"
-
-workflowSchedule:
-  responseTime: "0,15,30,45 * * * *"

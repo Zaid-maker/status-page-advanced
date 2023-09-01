@@ -195,7 +195,7 @@
     "slug": "code-server",
     "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "7.74%",
+    "uptimeDay": "7.10%",
     "uptimeWeek": "4.76%",
     "uptimeMonth": "2.74%",
     "uptimeYear": "0.00%",
@@ -205,7 +205,7 @@
     "timeMonth": 217,
     "timeYear": 1166,
     "dailyMinutesDown": {
-      "2023-09-01": 63,
+      "2023-09-01": 72,
       "2023-08-31": 1265,
       "2023-08-30": 1135,
       "2023-08-29": 1440,

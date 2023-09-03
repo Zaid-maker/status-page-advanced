@@ -11,6 +11,8 @@ sites:
     url: https://blackforthosting.com
   - name: Cyclone Server List
     url: https://cyclone-server-list.glitch.me
+  - name: Discord Bot List
+    url: https://rough-freckle-ball.glitch.me/
   - name: Google DNS 1
     check: "tcp-ping"
     url: 8.8.4.4

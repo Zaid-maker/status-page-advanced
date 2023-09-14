@@ -9,8 +9,8 @@ sites:
     url: https://rose-sleepy-elk.cyclic.app
   - name: Black Fort Hosting
     url: https://blackforthosting.com
-  - name: Cyclone Server List
-    url: https://cyclone-server-list.glitch.me
+  #- name: Cyclone Server List
+  #  url: https://cyclone-server-list.glitch.me
   - name: Discord Bot List
     url: https://rough-freckle-ball.glitch.me/
   - name: Google DNS 1

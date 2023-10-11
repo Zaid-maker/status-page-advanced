@@ -23,8 +23,8 @@ sites:
     port: 53
   - name: Code Server
     check: "tcp-ping"
-    url: pnode1.danbot.host
-    port: 1572
+    url: pnode2.danbot.host
+    port: 2916
 
 status-website:
   theme: ocean

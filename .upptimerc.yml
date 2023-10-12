@@ -41,7 +41,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-commitMessages:
-  commitAuthorName: "devmirza-bot"
-  commitAuthorEmail: "mirzazaid4740@gmail.com"

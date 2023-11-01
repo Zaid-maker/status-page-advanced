@@ -3,6 +3,12 @@ repo: status-page-advanced
 user-agent: Zaid-maker
 
 sites:
+  - name: Vercel
+    url: https://vercel.com
+  - name: Next.js
+    url: https://nextjs.org
+  - name: Turbo
+    url: https://turbo.build
   - name: Chat Bot API
     url: https://codex-api.zaidmaker.repl.co
   - name: AI 3D API

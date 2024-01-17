@@ -1,7 +1,7 @@
 url: https://turbo.build
-status: up
-code: 200
-responseTime: 92
-lastUpdated: 2024-01-16T23:08:53.715Z
+status: down
+code: 500
+responseTime: 169
+lastUpdated: 2024-01-17T21:41:27.457Z
 startTime: 2023-11-01T20:32:57.418Z
 generator: Upptime <https://github.com/upptime/upptime>

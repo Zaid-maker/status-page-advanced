@@ -81,7 +81,7 @@
     "timeMonth": 0,
     "timeYear": 1190,
     "dailyMinutesDown": {
-      "2024-11-30": 255,
+      "2024-11-30": 277,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,
@@ -458,10 +458,10 @@
     "url": "https://rough-freckle-ball.glitch.me/",
     "icon": "https://icons.duckduckgo.com/ip3/rough-freckle-ball.glitch.me.ico",
     "slug": "discord-bot-list",
-    "status": "up",
-    "uptime": "96.09%",
-    "uptimeDay": "50.17%",
-    "uptimeWeek": "92.88%",
+    "status": "down",
+    "uptime": "96.10%",
+    "uptimeDay": "50.06%",
+    "uptimeWeek": "92.87%",
     "uptimeMonth": "98.20%",
     "uptimeYear": "95.15%",
     "time": 11858,
@@ -470,7 +470,7 @@
     "timeMonth": 10658,
     "timeYear": 12339,
     "dailyMinutesDown": {
-      "2024-11-30": 253,
+      "2024-11-30": 254,
       "2024-11-29": 464,
       "2024-11-11": 24,
       "2024-11-10": 30,
@@ -516,7 +516,7 @@
       "2024-03-06": 16,
       "2024-02-09": 347,
       "2024-02-08": 293,
-      "2024-02-03": 72
+      "2024-02-03": 40
     }
   },
   {
@@ -573,14 +573,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "47.43%",
+    "uptimeYear": "47.42%",
     "time": 134,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2024-11-30": 255,
+      "2024-11-30": 278,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,

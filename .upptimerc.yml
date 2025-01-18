@@ -27,10 +27,8 @@ sites:
     check: "tcp-ping"
     url: 8.8.8.8
     port: 53
-  - name: Code Server
-    check: "tcp-ping"
-    url: pnode2.danbot.host
-    port: 2916
+  - name: VU LMS
+    url: https://vulms.vu.edu.pk
 
 status-website:
   theme: ocean

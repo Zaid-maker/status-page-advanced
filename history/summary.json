@@ -68,18 +68,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rose-sleepy-elk.cyclic.app.ico",
     "slug": "ai-3-d-api",
     "status": "down",
-    "uptime": "55.72%",
+    "uptime": "55.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "30.93%",
+    "uptimeYear": "30.91%",
     "time": 1212,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1127,
     "dailyMinutesDown": {
-      "2025-01-19": 102,
+      "2025-01-19": 182,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
@@ -614,17 +614,19 @@
     "url": "https://vulms.vu.edu.pk",
     "icon": "https://icons.duckduckgo.com/ip3/vulms.vu.edu.pk.ico",
     "slug": "vu-lms",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 4049,
     "timeDay": 2563,
     "timeWeek": 2563,
     "timeMonth": 2563,
     "timeYear": 2563,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-19": 0
+    }
   }
 ]

@@ -79,7 +79,7 @@
     "timeMonth": 0,
     "timeYear": 1127,
     "dailyMinutesDown": {
-      "2025-01-19": 182,
+      "2025-01-19": 208,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
@@ -614,19 +614,19 @@
     "url": "https://vulms.vu.edu.pk",
     "icon": "https://icons.duckduckgo.com/ip3/vulms.vu.edu.pk.ico",
     "slug": "vu-lms",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 4049,
-    "timeDay": 2563,
-    "timeWeek": 2563,
-    "timeMonth": 2563,
-    "timeYear": 2563,
+    "uptimeDay": "92.05%",
+    "uptimeWeek": "92.05%",
+    "uptimeMonth": "92.05%",
+    "uptimeYear": "92.05%",
+    "time": 4010,
+    "timeDay": 2291,
+    "timeWeek": 2291,
+    "timeMonth": 2291,
+    "timeYear": 2291,
     "dailyMinutesDown": {
-      "2025-01-19": 0
+      "2025-01-19": 27
     }
   }
 ]

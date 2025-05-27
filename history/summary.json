@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 182,
-    "timeDay": 98,
-    "timeWeek": 184,
-    "timeMonth": 166,
+    "timeDay": 239,
+    "timeWeek": 180,
+    "timeMonth": 169,
     "timeYear": 178,
     "dailyMinutesDown": {
       "2025-04-09": 22,
@@ -33,10 +33,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 142,
-    "timeDay": 213,
-    "timeWeek": 133,
-    "timeMonth": 145,
-    "timeYear": 142,
+    "timeDay": 160,
+    "timeWeek": 146,
+    "timeMonth": 142,
+    "timeYear": 143,
     "dailyMinutesDown": {
       "2024-06-26": 21,
       "2024-06-21": 20
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 133,
-    "timeDay": 143,
-    "timeWeek": 264,
-    "timeMonth": 263,
-    "timeYear": 140,
+    "time": 134,
+    "timeDay": 363,
+    "timeWeek": 282,
+    "timeMonth": 266,
+    "timeYear": 141,
     "dailyMinutesDown": {
       "2024-06-26": 21,
       "2024-06-21": 20
@@ -69,18 +69,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rose-sleepy-elk.cyclic.app.ico",
     "slug": "ai-3-d-api",
     "status": "down",
-    "uptime": "45.56%",
+    "uptime": "45.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1126,
+    "time": 1123,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-26": 117,
+      "2025-05-27": 113,
+      "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
@@ -443,8 +444,7 @@
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
-      "2024-05-28": 1440,
-      "2024-05-27": 1440
+      "2024-05-28": 1440
     }
   },
   {
@@ -453,16 +453,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blackforthosting.com.ico",
     "slug": "black-fort-hosting",
     "status": "up",
-    "uptime": "84.55%",
+    "uptime": "84.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "94.09%",
+    "uptimeYear": "94.36%",
     "time": 417,
-    "timeDay": 339,
-    "timeWeek": 488,
-    "timeMonth": 649,
-    "timeYear": 447,
+    "timeDay": 511,
+    "timeWeek": 505,
+    "timeMonth": 514,
+    "timeYear": 449,
     "dailyMinutesDown": {
       "2025-05-16": 20,
       "2025-04-03": 18,
@@ -498,8 +498,7 @@
       "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
-      "2024-05-28": 1440,
-      "2024-05-27": 1440
+      "2024-05-28": 1440
     }
   },
   {
@@ -508,16 +507,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rough-freckle-ball.glitch.me.ico",
     "slug": "discord-bot-list",
     "status": "up",
-    "uptime": "96.30%",
+    "uptime": "96.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "84.96%",
     "uptimeMonth": "91.23%",
-    "uptimeYear": "94.41%",
-    "time": 12113,
-    "timeDay": 28838,
-    "timeWeek": 8281,
-    "timeMonth": 13695,
-    "timeYear": 11914,
+    "uptimeYear": "94.67%",
+    "time": 12095,
+    "timeDay": 346,
+    "timeWeek": 7610,
+    "timeMonth": 13051,
+    "timeYear": 11850,
     "dailyMinutesDown": {
       "2025-05-24": 130,
       "2025-05-23": 584,
@@ -569,8 +568,7 @@
       "2024-06-02": 170,
       "2024-05-31": 559,
       "2024-05-29": 1333,
-      "2024-05-28": 932,
-      "2024-05-27": 398
+      "2024-05-28": 932
     }
   },
   {

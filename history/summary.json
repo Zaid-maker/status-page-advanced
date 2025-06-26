@@ -11,13 +11,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 182,
-    "timeDay": 152,
-    "timeWeek": 182,
-    "timeMonth": 162,
+    "timeDay": 114,
+    "timeWeek": 173,
+    "timeMonth": 163,
     "timeYear": 180,
     "dailyMinutesDown": {
-      "2025-04-09": 22,
-      "2024-06-26": 21
+      "2025-04-09": 22
     }
   },
   {
@@ -31,14 +30,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 145,
-    "timeDay": 76,
-    "timeWeek": 143,
-    "timeMonth": 149,
-    "timeYear": 145,
+    "time": 146,
+    "timeDay": 351,
+    "timeWeek": 181,
+    "timeMonth": 153,
+    "timeYear": 146,
     "dailyMinutesDown": {
-      "2025-06-06": 24,
-      "2024-06-26": 21
+      "2025-06-06": 24
     }
   },
   {
@@ -53,13 +51,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 145,
-    "timeDay": 273,
-    "timeWeek": 340,
-    "timeMonth": 303,
+    "timeDay": 254,
+    "timeWeek": 327,
+    "timeMonth": 307,
     "timeYear": 156,
-    "dailyMinutesDown": {
-      "2024-06-26": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AI 3D API",
@@ -67,7 +63,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rose-sleepy-elk.cyclic.app.ico",
     "slug": "ai-3-d-api",
     "status": "down",
-    "uptime": "43.68%",
+    "uptime": "43.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -78,7 +74,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-25": 119,
+      "2025-06-26": 117,
+      "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
@@ -441,8 +438,7 @@
       "2024-06-30": 1440,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
-      "2024-06-27": 1440,
-      "2024-06-26": 1440
+      "2024-06-27": 1440
     }
   },
   {
@@ -451,15 +447,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/blackforthosting.com.ico",
     "slug": "black-fort-hosting",
     "status": "up",
-    "uptime": "85.04%",
+    "uptime": "85.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "96.68%",
     "time": 407,
-    "timeDay": 343,
-    "timeWeek": 378,
-    "timeMonth": 691,
+    "timeDay": 416,
+    "timeWeek": 384,
+    "timeMonth": 693,
     "timeYear": 473,
     "dailyMinutesDown": {
       "2025-05-30": 18,
@@ -500,11 +496,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "95.30%",
-    "time": 12398,
-    "timeDay": 5867,
-    "timeWeek": 7756,
-    "timeMonth": 15200,
-    "timeYear": 11689,
+    "time": 12370,
+    "timeDay": 7472,
+    "timeWeek": 4732,
+    "timeMonth": 14572,
+    "timeYear": 11654,
     "dailyMinutesDown": {
       "2025-06-05": 38,
       "2025-05-24": 130,
@@ -569,7 +565,7 @@
     "uptimeYear": "100.00%",
     "time": 4,
     "timeDay": 2,
-    "timeWeek": 6,
+    "timeWeek": 5,
     "timeMonth": 4,
     "timeYear": 4,
     "dailyMinutesDown": {}

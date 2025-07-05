@@ -74,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-05": 113,
+      "2025-07-05": 114,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -490,8 +490,8 @@
     "slug": "discord-bot-list",
     "status": "down",
     "uptime": "96.52%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.76%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.75%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "95.45%",
     "time": 12384,
@@ -500,7 +500,7 @@
     "timeMonth": 14917,
     "timeYear": 11638,
     "dailyMinutesDown": {
-      "2025-07-05": 0,
+      "2025-07-05": 1,
       "2025-07-03": 24,
       "2025-06-05": 38,
       "2025-05-24": 130,

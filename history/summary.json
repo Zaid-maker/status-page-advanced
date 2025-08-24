@@ -6,9 +6,9 @@
     "slug": "vercel",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 171,
     "timeDay": 106,
@@ -16,7 +16,6 @@
     "timeMonth": 147,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2025-08-23": 4,
       "2025-07-19": 30,
       "2025-07-18": 27,
       "2025-04-09": 22
@@ -71,7 +70,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rose-sleepy-elk.cyclic.app.ico",
     "slug": "ai-3-d-api",
     "status": "down",
-    "uptime": "40.35%",
+    "uptime": "40.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -82,7 +81,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-23": 1397,
+      "2025-08-24": 121,
+      "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
@@ -445,8 +445,7 @@
       "2024-08-28": 1440,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
-      "2024-08-25": 1440,
-      "2024-08-24": 1440
+      "2024-08-25": 1440
     }
   },
   {
@@ -495,18 +494,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rough-freckle-ball.glitch.me.ico",
     "slug": "discord-bot-list",
     "status": "down",
-    "uptime": "90.29%",
+    "uptime": "90.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.82%",
+    "uptimeYear": "84.79%",
     "time": 11176,
     "timeDay": 174,
     "timeWeek": 138,
     "timeMonth": 153,
     "timeYear": 9959,
     "dailyMinutesDown": {
-      "2025-08-23": 1397,
+      "2025-08-24": 122,
+      "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,

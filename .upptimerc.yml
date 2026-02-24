@@ -3,6 +3,8 @@ repo: status-page-advanced
 user-agent: Zaid-maker
 
 sites:
+  - name: Attendance Tracker API
+    url: https://attendance-tracker-system-theta.vercel.app/health
   - name: Vercel
     url: https://vercel.com
   - name: Next.js

@@ -11,14 +11,10 @@ sites:
     url: https://turbo.build
   #- name: Chat Bot API
   #  url: https://cb4a722c-91b0-4282-94f2-1fefb4ee8f7b-00-2col74t4a19h2.kirk.replit.dev/
-  - name: AI 3D API
-    url: https://rose-sleepy-elk.cyclic.app
   - name: Black Fort Hosting
     url: https://blackforthosting.com
   #- name: Cyclone Server List
   #  url: https://cyclone-server-list.glitch.me
-  - name: Discord Bot List
-    url: https://rough-freckle-ball.glitch.me/
   - name: Google DNS 1
     check: "tcp-ping"
     url: 8.8.4.4

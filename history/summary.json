@@ -100,16 +100,16 @@
     "url": "https://blackforthosting.com",
     "icon": "https://icons.duckduckgo.com/ip3/blackforthosting.com.ico",
     "slug": "black-fort-hosting",
-    "status": "up",
+    "status": "down",
     "uptime": "89.55%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 468,
-    "timeDay": 383,
-    "timeWeek": 435,
-    "timeMonth": 427,
+    "timeDay": 394,
+    "timeWeek": 432,
+    "timeMonth": 426,
     "timeYear": 435,
     "dailyMinutesDown": {
       "2025-10-25": 40,
@@ -118,7 +118,8 @@
       "2026-05-09": 50,
       "2026-05-16": 117,
       "2026-05-27": 647,
-      "2026-05-28": 221
+      "2026-05-28": 221,
+      "2026-08-19": 0
     }
   },
   {

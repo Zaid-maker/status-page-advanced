@@ -3,6 +3,8 @@ repo: status-page-advanced
 user-agent: Zaid-maker
 
 sites:
+  - name: Gitryx
+    url: https://gitryx.com
   - name: Vercel
     url: https://vercel.com
   - name: Next.js

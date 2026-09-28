@@ -4,18 +4,20 @@
     "url": "https://gitryx.com",
     "icon": "https://icons.duckduckgo.com/ip3/gitryx.com.ico",
     "slug": "gitryx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 673,
-    "timeDay": 1481,
-    "timeWeek": 673,
-    "timeMonth": 673,
-    "timeYear": 673,
-    "dailyMinutesDown": {}
+    "time": 580,
+    "timeDay": 845,
+    "timeWeek": 580,
+    "timeMonth": 580,
+    "timeYear": 580,
+    "dailyMinutesDown": {
+      "2026-09-28": 0
+    }
   },
   {
     "name": "Vercel",
@@ -31,7 +33,7 @@
     "time": 162,
     "timeDay": 222,
     "timeWeek": 163,
-    "timeMonth": 185,
+    "timeMonth": 186,
     "timeYear": 163,
     "dailyMinutesDown": {
       "2025-11-17": 112,
@@ -80,7 +82,7 @@
     "time": 366,
     "timeDay": 297,
     "timeWeek": 305,
-    "timeMonth": 383,
+    "timeMonth": 378,
     "timeYear": 399,
     "dailyMinutesDown": {
       "2025-10-20": 26,
@@ -106,7 +108,7 @@
     "time": 448,
     "timeDay": 435,
     "timeWeek": 672,
-    "timeMonth": 497,
+    "timeMonth": 498,
     "timeYear": 438,
     "dailyMinutesDown": {
       "2025-10-25": 40,

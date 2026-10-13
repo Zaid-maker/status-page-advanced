@@ -4,21 +4,21 @@
     "url": "https://gitryx.com",
     "icon": "https://icons.duckduckgo.com/ip3/gitryx.com.ico",
     "slug": "gitryx",
-    "status": "down",
-    "uptime": "93.08%",
-    "uptimeDay": "87.76%",
-    "uptimeWeek": "98.25%",
-    "uptimeMonth": "93.08%",
-    "uptimeYear": "93.08%",
-    "time": 483,
-    "timeDay": 285,
-    "timeWeek": 444,
-    "timeMonth": 483,
-    "timeYear": 483,
+    "status": "up",
+    "uptime": "91.93%",
+    "uptimeDay": "66.15%",
+    "uptimeWeek": "95.16%",
+    "uptimeMonth": "91.93%",
+    "uptimeYear": "91.93%",
+    "time": 474,
+    "timeDay": 277,
+    "timeWeek": 422,
+    "timeMonth": 474,
+    "timeYear": 474,
     "dailyMinutesDown": {
       "2026-09-28": 498,
       "2026-09-29": 1060,
-      "2026-10-13": 176
+      "2026-10-13": 487
     }
   },
   {

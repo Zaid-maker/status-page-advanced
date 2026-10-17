@@ -4,21 +4,22 @@
     "url": "https://gitryx.com",
     "icon": "https://icons.duckduckgo.com/ip3/gitryx.com.ico",
     "slug": "gitryx",
-    "status": "up",
-    "uptime": "93.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.16%",
-    "uptimeMonth": "93.33%",
-    "uptimeYear": "93.33%",
-    "time": 487,
-    "timeDay": 421,
-    "timeWeek": 486,
-    "timeMonth": 487,
-    "timeYear": 487,
+    "status": "down",
+    "uptime": "93.40%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "95.11%",
+    "uptimeMonth": "93.40%",
+    "uptimeYear": "93.40%",
+    "time": 567,
+    "timeDay": 1605,
+    "timeWeek": 742,
+    "timeMonth": 567,
+    "timeYear": 567,
     "dailyMinutesDown": {
       "2026-09-28": 498,
       "2026-09-29": 1060,
-      "2026-10-13": 487
+      "2026-10-13": 487,
+      "2026-10-17": 5
     }
   },
   {
@@ -101,9 +102,9 @@
     "url": "https://blackforthosting.com",
     "icon": "https://icons.duckduckgo.com/ip3/blackforthosting.com.ico",
     "slug": "black-fort-hosting",
-    "status": "up",
+    "status": "down",
     "uptime": "89.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.05%",
     "uptimeYear": "99.28%",
@@ -122,7 +123,8 @@
       "2026-05-28": 221,
       "2026-08-19": 29,
       "2026-09-25": 1234,
-      "2026-09-24": 1372
+      "2026-09-24": 1372,
+      "2026-10-17": 0
     }
   },
   {
